@@ -1,5 +1,5 @@
 Ex01: Tạo danh sách sinh viên 
-Ex01 : Xoa sinh vien co ma SV =102
+Ex01 : Xoa sinh vien co Ma SV =102
 
 Ex01: Sua sinh vien 
 Ex01: Them sinh vien
